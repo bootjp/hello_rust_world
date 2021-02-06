@@ -2,3 +2,8 @@
 name = "hello_rust_world"
 version = "0.1.0"
 authors = ["bootjp <oh@bootjp.me>"]
+
+
+[dependencies]
+
+rand = "0.3.14"
